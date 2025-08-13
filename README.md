@@ -1,2 +1,2 @@
 # # iniwc
-# ini wc it is fork  of the https://binarylinuxx.github.io/iniwm/
+# iniwc it is fork  of the https://binarylinuxx.github.io/iniwm/
